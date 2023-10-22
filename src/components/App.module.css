@@ -1,0 +1,9 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.header {
+  color: #2196f3;
+  margin-left: 90px;
+}
