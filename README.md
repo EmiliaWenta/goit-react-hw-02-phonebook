@@ -1,6 +1,6 @@
 # Phonebook using lifeCycle of React
 
-> Task nr 3 from GoIT course - module: React.js Live demo
+> Task nr 2 from GoIT course - module: React.js Live demo
 > [_here_](https://emiliawenta.github.io/goit-react-hw-02-phonebook/).
 
 ## Table of Contents
@@ -39,7 +39,8 @@ Project is created with:
 
 ## Screenshots
 
-![components app](https://github.com/EmiliaWenta/goit-react-hw-02/-phonebook/assets/main-setup.PNG)
+![main-setup](https://github.com/EmiliaWenta/goit-react-hw-02-phonebook/assets/126571469/c7afdbb0-6c3c-4845-b08e-ea3fd368e469)
+
 
 ## Setup
 
